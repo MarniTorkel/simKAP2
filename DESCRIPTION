@@ -18,3 +18,5 @@ Imports:
     ggplot2,
     rlang
 VignetteBuilder: knitr
+URL: https://github.com/MarniTorkel/simKAP2
+BugReports: https://github.com/MarniTorkel/simKAP2/issues
